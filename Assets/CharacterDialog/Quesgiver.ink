@@ -1,12 +1,12 @@
-Hello Brave Adventurer! I have a quest!
-   -> choices
+Oh no! it seems you have gotten a bagguet glued to your hand. I have a task for you.
+ -> choices
    
    == choices ==
- * Okay first, what is your favorite color?
- - - - It's red.
+ * why is there a bagguet glued to my hand?
+ - - - The world may never know
     -> choices
- * Okay now tell me the quest.
- - - - Kill ten Rats
+ * Okay now tell me the task  you have for me, oh great cheese.
+ - - - Find all the small cheese's 
  
-- Come Find me when you've completed the quest.
+- that is  your task... YIPPEE, and good luck.
     -> END
